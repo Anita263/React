@@ -11,7 +11,7 @@ margin: 0 auto;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-  
+    высота : 20%;
 }
 .Header__Nav{
     font-size: 18px;
@@ -35,7 +35,7 @@ margin: 0 auto;
    text-align: center;
    color: #990000;
    font-style: normal;
-  padding-left: 50px;
+  padding-left: 50px;  
 }
 
 .Main__Menu{
@@ -102,5 +102,5 @@ p3{
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-  
+    высота :  20%;
 }
